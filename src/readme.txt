@@ -5,7 +5,7 @@ ______________________________________________________________________
 F U N C T I O N S
 WYSYWIG editing
 Loads and saves RTF files
-Basic editing tools
+Basic editing and formatting 
 Can drag and drop images
 Mouse support
 Indentation 
