@@ -6,6 +6,7 @@ F U N C T I O N S
 WYSYWIG editing
 Loads and saves RTF files
 Basic editing tools
+Can drag and drop images
 Mouse support
 Indentation 
 Undo / Redo
@@ -30,7 +31,7 @@ T H I N G S  T O  D O
 - Fix Text file loading and saving 
 - get underline woeking
 - Better Search and Replace
-- maybe load image option
+- Better image handling
 - maybe, lots of things
 
 N O T E S
